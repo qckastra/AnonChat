@@ -3,10 +3,10 @@
 * data
 * network
 * tor
+* service
 
 # UNFINISHED
 * crypto
 * ui
-* service
 
 # OPTIONAL CODE WILL BE ADDED LATER
