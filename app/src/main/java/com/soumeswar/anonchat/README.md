@@ -4,9 +4,9 @@
 * network
 * tor
 * service
+* crypto
 
 # UNFINISHED
-* crypto
 * ui
 
 # OPTIONAL CODE WILL BE ADDED LATER
