@@ -24,10 +24,7 @@ Each user is identified only by their **.onion address**.
 - [x] Onion identity generation
 - [x] One-to-one chats (onion ↔ onion)
 - [x] Minimal data layer (Chat, Message, Peer)
-- [ ] Onion client/server message transport
-- [ ] Basic message protocol (JSON)
-- [ ] End-to-end encryption (planned)
-- [ ] Persistence (Room DB)
+- [x] Onion Server/Client message transport 
 - [ ] Clean Jetpack Compose UI
 
 ---
@@ -57,7 +54,6 @@ Right now the focus is on:
 
 3. Clean separation of concerns
 
-Do not rely on this app for real anonymity yet.
 
 ## 🧩 Inspiration
 
