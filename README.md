@@ -72,3 +72,5 @@ The author is not responsible for misuse, legal issues, or security assumptions 
 
 This is currently a personal learning project.
 Contributions, ideas, and reviews are welcome once the core architecture stabilizes.
+
+## NOTE: THE PROJECT ISN'T COMPLETED AND STABLE YET TO PROMISE TRUE ANONYMITY, KINDLY WAIT FOR INCOMING CHANGES.
